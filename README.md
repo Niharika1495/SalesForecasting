@@ -1,9 +1,9 @@
-# Sales Forecasting & Demand Prediction with Dashboard
+# Sales Forecasting & Demand Prediction 
 
 ## 📈 Project Overview
 An end-to-end solution to predict future sales using historical data and visualize insights with an interactive dashboard. Ideal for retail, e-commerce, FMCG, and supply-chain domains.
 
-**Live Dashboard:** [Sales Forecasting Dashboard](https://salesforecasting-3avv9mu4tmeoimyzaxysej.streamlit.app/)
+**Demo Link:** [Sales Forecasting Dashboard](https://salesforecasting-3avv9mu4tmeoimyzaxysej.streamlit.app/)
 
 ---
 
@@ -45,8 +45,6 @@ An end-to-end solution to predict future sales using historical data and visuali
 
 ---
 
-## 🔗 Live Demo
-[Sales Forecasting Dashboard](https://salesforecasting-3avv9mu4tmeoimyzaxysej.streamlit.app/)
 
 ---
 
